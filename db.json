@@ -6,7 +6,8 @@
         
       ],
     "posts": [ 
-      {"id": 1 , "post_title": "", "post_body": "", "authod_id":"", "authod_username":"" }
+      {"id": 1 , "post_title": "Independence", "post_body": " India got Independece on 15 August 1974", "authod_id":"123", "authod_username":"David" },
+      {"id": 2 , "post_title": "Republic", "post_body": " India celebrates its republic day on 26 january", "authod_id":"1234", "authod_username":"M.D Das" }
        
       ],
     "comments": [ 
