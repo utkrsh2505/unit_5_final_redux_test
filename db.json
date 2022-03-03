@@ -1,0 +1,16 @@
+{
+ 
+  
+    "users": [
+       { "id":1 , "username":"" , "password": ""}
+        
+      ],
+    "posts": [ 
+      {"id": 1 , "post_title": "", "post_body": "", "authod_id":"", "authod_username":"" }
+       
+      ],
+    "comments": [ 
+       { "id": 1, "author_id" :23, "author_name": "", "post_id":"", "comment_details": "" }
+       ]
+   
+}
